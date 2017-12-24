@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MATCHES>
+  <MATCH username="congratulati0n" server="na">
+    <kills>2</kills>
+    <damage>311</damage>
+    <distance>9.30 km </distance>
+  </MATCH>
+  <MATCH username="parova" server="na">
+    <kills>1</kills>
+    <damage>30</damage>
+    <distance>1.78 km </distance>
+  </MATCH>
+  <MATCH username="evvox" server="eu">
+    <kills>5</kills>
+    <damage>608</damage>
+    <distance>6.79 km </distance>
+  </MATCH>
+  <MATCH username="aktanir" server="eu">
+    <kills>2</kills>
+    <damage>238</damage>
+    <distance>3.81 km </distance>
+  </MATCH>
+  <MATCH username="sorken" server="eu">
+    <kills>3</kills>
+    <damage>355</damage>
+    <distance>8.61 km </distance>
+  </MATCH>
+  <MATCH username="MrDumpty" server="eu">
+    <kills>0</kills>
+    <damage>82</damage>
+    <distance>4.83 km </distance>
+  </MATCH>
+</MATCHES>

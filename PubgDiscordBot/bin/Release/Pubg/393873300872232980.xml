@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MATCHES>
+  <MATCH username="shroud" server="na">
+    <kills>11</kills>
+    <damage>965</damage>
+    <distance>7.24 km </distance>
+  </MATCH>
+  <MATCH username="postimees" server="eu">
+    <kills>0</kills>
+    <damage>0</damage>
+    <distance>0.05 km </distance>
+  </MATCH>
+  <MATCH username="congratulati0n" server="na">
+    <kills>2</kills>
+    <damage>311</damage>
+    <distance>9.30 km </distance>
+  </MATCH>
+  <MATCH username="xLamb" server="na">
+    <kills>12</kills>
+    <damage>1,239</damage>
+    <distance>6.47 km </distance>
+  </MATCH>
+  <MATCH username="y-start" server="na">
+    <kills>16</kills>
+    <damage>1,671</damage>
+    <distance>8.90 km </distance>
+  </MATCH>
+  <MATCH username="drecken" server="na">
+    <kills>3</kills>
+    <damage>464</damage>
+    <distance>1.17 km </distance>
+  </MATCH>
+  <MATCH username="Arelogic" server="na">
+    <kills>2</kills>
+    <damage>232</damage>
+    <distance>5.86 km </distance>
+  </MATCH>
+  <MATCH username="parova" server="na">
+    <kills>1</kills>
+    <damage>30</damage>
+    <distance>1.78 km </distance>
+  </MATCH>
+  <MATCH username="dreamssol" server="na">
+    <kills>0</kills>
+    <damage>99</damage>
+    <distance>0.66 km </distance>
+  </MATCH>
+  <MATCH username="drmocco" server="na">
+    <kills>2</kills>
+    <damage>224</damage>
+    <distance>10.30 km </distance>
+  </MATCH>
+  <MATCH username="son_save_me" server="na">
+    <kills>5</kills>
+    <damage>463</damage>
+    <distance>7.49 km </distance>
+  </MATCH>
+</MATCHES>
